@@ -1,0 +1,144 @@
+{
+  "brands": [
+    {
+      "name": "Adidas",
+      "url": "https://adidas.com",
+      "imgPath": "logos/adidas.svg"
+    },
+    {
+      "name": "Airbnb",
+      "url": "https://airbnb.com",
+      "imgPath": "logos/airbnb.svg"
+    },
+    {
+      "name": "Alipay",
+      "url": "https://intl.alipay.com",
+      "imgPath": "logos/alipay.svg"
+    },
+    {
+      "name": "Allianz",
+      "url": "https://allianz.com",
+      "imgPath": "logos/allianz.svg"
+    },
+    {
+      "name": "Amazon",
+      "url": "https://amazon.com",
+      "imgPath": "logos/amazon.svg"
+    },
+    {
+      "name": "AMD",
+      "url": "https://amd.com",
+      "imgPath": "logos/amd.svg"
+    },
+    {
+      "name": "Apple Watch",
+      "url": "https://www.apple.com/watch/",
+      "imgPath": "logos/apple-watch.svg"
+    },
+    {
+      "name": "ATT",
+      "url": "https://att.com",
+      "imgPath": "logos/att.svg"
+    },
+    {
+      "name": "BBC",
+      "url": "https://bbc.com",
+      "imgPath": "logos/bbc.svg"
+    },
+    {
+      "name": "Bing",
+      "url": "https://bing.com",
+      "imgPath": "logos/bing.svg"
+    },
+    {
+      "name": "Canon",
+      "url": "https://canon.com",
+      "imgPath": "logos/canon.svg"
+    },
+    {
+      "name": "CBS",
+      "url": "https://cbs.com",
+      "imgPath": "logos/cbs.svg"
+    },
+    {
+      "name": "Coca Cola",
+      "url": "https://www.coca-cola.com/",
+      "imgPath": "logos/coca-cola.svg"
+    },
+    {
+      "name": "Disney",
+      "url": "https://disney.com",
+      "imgPath": "logos/disney.svg"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://facebook.com",
+      "imgPath": "logos/facebook.svg"
+    },
+    {
+      "name": "Ford",
+      "url": "https://ford.com",
+      "imgPath": "logos/ford.svg"
+    },
+    {
+      "name": "Fred perry",
+      "url": "https://www.fredperry.com/",
+      "imgPath": "logos/fred-perry.svg"
+    },
+    {
+      "name": "GE",
+      "url": "https://ge.com",
+      "imgPath": "logos/ge.svg"
+    },
+    {
+      "name": "Google",
+      "url": "https://google.com",
+      "imgPath": "logos/google.svg"
+    },
+    {
+      "name": "HM",
+      "url": "https://hm.com",
+      "imgPath": "logos/hm.svg"
+    },
+    {
+      "name": "HP",
+      "url": "https://hp.com",
+      "imgPath": "logos/hp.svg"
+    },
+    {
+      "name": "Huawei",
+      "url": "https://huawei.com",
+      "imgPath": "logos/huawei.svg"
+    },
+    {
+      "name": "IBM",
+      "url": "https://ibm.com",
+      "imgPath": "logos/ibm.svg"
+    },
+    {
+      "name": "Intel",
+      "url": "https://intel.com",
+      "imgPath": "logos/intel.svg"
+    },
+    {
+      "name": "Lego",
+      "url": "https://lego.com",
+      "imgPath": "logos/lego.svg"
+    },
+    {
+      "name": "Nike",
+      "url": "https://nike.com",
+      "imgPath": "logos/nike.svg"
+    },
+    {
+      "name": "Vaio",
+      "url": "https://vaio.com",
+      "imgPath": "logos/vaio.svg"
+    },
+    {
+      "name": "Yamaha",
+      "url": "https://yamaha.com",
+      "imgPath": "logos/yamaha.svg"
+    }
+  ]
+}
